@@ -1,2 +1,4 @@
 # hello-world
-Sadece bir deneme
+
+
+Merhaba bu bir deneme yazısıdır. GitHub öğrenme çabalarımdır.
